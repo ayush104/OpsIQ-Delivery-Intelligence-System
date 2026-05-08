@@ -30,3 +30,9 @@ India's quick commerce companies promise delivery in under 20 minutes. Every SLA
 - AI auto-generates weekly playbook
 
 ---
+
+## How to Run
+
+Open the notebook file in Google Colab and run all cells in order.
+The database and all tables are created automatically inside the notebook.
+No separate setup required.
