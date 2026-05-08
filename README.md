@@ -30,5 +30,3 @@ India's quick commerce companies promise delivery in under 20 minutes. Every SLA
 - AI auto-generates weekly playbook
 
 ---
-
-## How to Run
